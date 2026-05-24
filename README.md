@@ -13,7 +13,7 @@
 - 🔭 Currently working on projects that matter
 - 🌱 Always learning something new
 - 💬 Ask me about anything — I'll do my best to help
-- 📫 Reach me at: **racker1508@gmail.com**
+- 📫 Feel free to reach out via GitHub
 - ⚡ Fun fact: I think in code and dream in commits
 
 ---
@@ -77,7 +77,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-luciditybroker-181717?style=for-the-badge&logo=github)](https://github.com/luciditybroker)
-[![Email](https://img.shields.io/badge/Email-racker1508%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:racker1508@gmail.com)
 
 </div>
 
