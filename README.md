@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://count.getloli.com/img/count_?name=luciditybroker&theme=asoul" alt="Visitor Count" />
+<img src="https://count.getloli.com/get/@luciditybroker?theme=moebooru" alt="Visitor Count" />
 
 *Thanks for stopping by! Check out my repos and hit me up in the Discord.* ✨
 
