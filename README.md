@@ -2,11 +2,9 @@
 
 <img src="https://count.getloli.com/get/@luciditybroker?theme=moebooru" alt="Visitor Count" />
 
-<img src="https://raw.githubusercontent.com/luciditybroker/luciditybroker/main/pose1.png" width="300" />
-
 # netcults
 
-for skids by skids
+security researcher · builder · always learning
 
 ---
 
