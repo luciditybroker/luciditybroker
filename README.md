@@ -14,7 +14,8 @@ security researcher · builder · always learning
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=luciditybroker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luciditybroker&repo=Netware-Updates&theme=tokyonight&hide_border=true" alt="Netware-Updates" width="49%" />
+### 🔧 currently building
+
+[![NetWare Builder](https://img.shields.io/badge/NetWare%20Builder-security%20research%20tool-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciditybroker/Netware-Updates)
 
 </div>
