@@ -15,6 +15,6 @@ security researcher · builder · always learning
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=luciditybroker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=luciditybroker&theme=tokyonight&hide_border=true" alt="Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luciditybroker&repo=Netware-Updates&theme=tokyonight&hide_border=true" alt="Netware-Updates" width="49%" />
 
 </div>
